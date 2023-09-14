@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+package.json
+src/config/config.js
+src/migrations/20230909073642-create_payment_data.js
+src/models/index.js
