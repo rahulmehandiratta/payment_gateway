@@ -1,24 +1,24 @@
 const Order = 
 {
   "development": {
-    "username": "root",
+    "username": "your_user",
     "password": "you_password",
     "database": "you_database",
-    "host": "127.0.0.1",
+    "host": "your_host",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
+    "username": "your_user",
     "password": you_password,
     "database": "you_database",
-    "host": "127.0.0.1",
+    "host": "your_host",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
+    "username": "your_user",
     "password": you_password,
     "database": "you_database",
-    "host": "127.0.0.1",
+    "host": "your_host",
     "dialect": "mysql"
   }
 }
